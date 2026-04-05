@@ -1,1 +1,3 @@
 # rsc
+func emv( ) 
+
